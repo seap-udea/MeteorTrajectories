@@ -6,6 +6,7 @@ cleanmac:
 clean:
 	@echo "Cleaning..."
 	@find . -name "*~" -exec rm -r {} \;
+	@find . -name "Icon*" -exec rm -r {} \;
 
 branch:
 	@echo "Branch: $(BRANCH)"
