@@ -1,8 +1,10 @@
 # MeteorTrajectories
 Meteor trajectory determination
 
-In this repositories you may find a series of tools used to
-reconstruct the trajectory of large meteors using public footage.
+In this repository you may find a series of tools used to reconstruct
+the trajectory of large meteors (*super bolides*) using public
+footage.  
+
 Most of these tools have been developed by the *Solar, Earth and
 Planetary Physics Group* in the Institute of Physics of the University
 of Antioquia (Medellín, Colombia).
